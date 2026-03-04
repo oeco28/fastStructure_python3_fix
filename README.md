@@ -1,6 +1,6 @@
 # fastStructure
 
-I have created a duplicated (not forked copy of fastStructure) for my onw use but you are welcome to use it. Currently, the version of fastStructure available in https://rajanil.github.io/fastStructure/ is outdated and works only on python2. I have updated links and functions to make it compatible with python 3 so my students can use it. If you use it, please cite the original citation, I have only toyed around with compatibility issues, and if you appreciate the solution throw some kind words in the acknowledgment of your paper. 
+I have created a duplicated (not forked copy of fastStructure) for my own use but you are welcome to use it. Currently, the version of fastStructure available in https://rajanil.github.io/fastStructure/ is outdated and works only on python2. I have updated links and functions to make it compatible with python 3 so my students can use it. If you use it, please cite the original citation, I have only toyed around with compatibility issues, and if you appreciate the solution throw some kind words in the acknowledgment of your paper. 
 
 Just so you don't have to look for the information about dependencies and building the tool, I have included a copy of the material here. It is possible that the pre-compiled structure.py in the repository works for you (you are welcome to try). If not, delete the file (```bash rm structure.py```) and run through the installation process. Enjoy
 
